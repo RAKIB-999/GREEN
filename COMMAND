@@ -1,0 +1,8 @@
+=[📌]=𝗧𝗢𝗢𝗟𝗦•𝗙𝗜𝗟𝗘&𝗥𝗔𝗡𝗗𝗢𝗠
+=[📌]=𝗨𝗣𝗗𝗔𝗧𝗘•𝗗𝗢𝗡𝗘
+=[📌]=𝗩𝗘𝗥𝗦𝗢𝗡: 0.15
+=[📌]=𝗖𝗢𝗠𝗠𝗔𝗡𝗗↓
+rm -rf RAKIB
+git clone https://github.com/RAKIB-999/GREEN.git
+cd GREEN
+python GREEN.py
